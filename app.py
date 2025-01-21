@@ -15,7 +15,6 @@ def showaura():
         reverse=False,
         loop=True,
         quality="high",
-        renderer="svg",
         height=None,
         width=None,
         key=None,
